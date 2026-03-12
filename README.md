@@ -8,9 +8,6 @@ python代码实现参考[github仓库](https://github.com/CHH3213/chhRobotics) .
 > 推荐结合博客内容来看代码实现。
 
 
-
-
-
 ### 项目依赖
 本项目在Ubuntu 20.04下运行，windows下尚未尝试过，因此推荐使用Ubuntu系统。
 
